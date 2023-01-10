@@ -1,5 +1,7 @@
 ## Compiler Design course project
 
+Check documentation here: [PDF](https://github.com/AmirHosein-Gharaati/Compiler-course-project/doc/project-definition.pdf)
+
 Compile using the Makefile:
 
 ```
